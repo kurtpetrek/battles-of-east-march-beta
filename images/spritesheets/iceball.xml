@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="iceball.png">
+	<SubTexture name="iceball01.png" x="76" y="365" width="66" height="83"/>
+	<SubTexture name="iceball02.png" x="0" y="213" width="75" height="74"/>
+	<SubTexture name="iceball03.png" x="0" y="68" width="83" height="66"/>
+	<SubTexture name="iceball04.png" x="0" y="365" width="74" height="75"/>
+	<SubTexture name="iceball05.png" x="77" y="136" width="66" height="83"/>
+	<SubTexture name="iceball06.png" x="0" y="289" width="75" height="74"/>
+	<SubTexture name="iceball07.png" x="0" y="0" width="83" height="66"/>
+	<SubTexture name="iceball08.png" x="0" y="136" width="75" height="75"/>
+</TextureAtlas>

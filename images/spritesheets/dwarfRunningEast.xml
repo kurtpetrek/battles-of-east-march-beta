@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="dwarfRunningEast.png">
+	<SubTexture name="dwarfRunningEast01.png" x="0" y="70" width="62" height="76"/>
+	<SubTexture name="dwarfRunningEast02.png" x="0" y="148" width="54" height="74"/>
+	<SubTexture name="dwarfRunningEast03.png" x="116" y="0" width="46" height="71"/>
+	<SubTexture name="dwarfRunningEast04.png" x="65" y="0" width="49" height="67"/>
+	<SubTexture name="dwarfRunningEast05.png" x="0" y="0" width="63" height="68"/>
+	<SubTexture name="dwarfRunningEast06.png" x="56" y="148" width="53" height="67"/>
+	<SubTexture name="dwarfRunningEast07.png" x="111" y="146" width="47" height="71"/>
+	<SubTexture name="dwarfRunningEast08.png" x="64" y="70" width="50" height="74"/>
+</TextureAtlas>

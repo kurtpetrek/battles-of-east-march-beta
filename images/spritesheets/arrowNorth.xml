@@ -1,0 +1,4 @@
+<TextureAtlas imagePath="arrowNorth.png">
+	<SubTexture name="arrowNorth" x="0" y="0" width="32" height="64"/>
+    <SubTexture name="arrowNorth1" x="0" y="0" width="32" height="64"/>
+</TextureAtlas>

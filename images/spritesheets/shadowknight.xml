@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="shadowknight.png">
+	<SubTexture name="shadowknight01.png" x="0" y="0" width="52" height="73"/>
+	<SubTexture name="shadowknight02.png" x="0" y="75" width="48" height="66"/>
+	<SubTexture name="shadowknight03.png" x="50" y="75" width="44" height="65"/>
+	<SubTexture name="shadowknight04.png" x="96" y="71" width="41" height="66"/>
+	<SubTexture name="shadowknight05.png" x="96" y="139" width="41" height="72"/>
+	<SubTexture name="shadowknight06.png" x="54" y="0" width="42" height="69"/>
+	<SubTexture name="shadowknight07.png" x="50" y="142" width="44" height="69"/>
+	<SubTexture name="shadowknight08.png" x="0" y="143" width="48" height="67"/>
+</TextureAtlas>

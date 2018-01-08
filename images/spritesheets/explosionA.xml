@@ -1,0 +1,21 @@
+<TextureAtlas imagePath="explosionA.png">
+	<SubTexture name="explosion01.png" x="0" y="0" width="50" height="43"/>
+	<SubTexture name="explosion02.png" x="52" y="38" width="40" height="36"/>
+	<SubTexture name="explosion03.png" x="0" y="45" width="46" height="34"/>
+	<SubTexture name="explosion04.png" x="52" y="0" width="40" height="36"/>
+	<SubTexture name="explosion05.png" x="0" y="81" width="42" height="35"/>
+	<SubTexture name="explosion06.png" x="88" y="76" width="36" height="34"/>
+	<SubTexture name="explosion07.png" x="7" y="118" width="5" height="5"/>
+	<SubTexture name="explosion08.png" x="44" y="81" width="42" height="36"/>
+	<SubTexture name="explosion09.png" x="94" y="0" width="34" height="33"/>
+	<SubTexture name="explosion10.png" x="126" y="62" width="32" height="26"/>
+	<SubTexture name="explosion11.png" x="94" y="35" width="32" height="25"/>
+	<SubTexture name="explosion12.png" x="126" y="90" width="30" height="23"/>
+	<SubTexture name="explosion13.png" x="101" y="112" width="6" height="11"/>
+	<SubTexture name="explosion14.png" x="128" y="35" width="23" height="17"/>
+	<SubTexture name="explosion15.png" x="130" y="0" width="19" height="15"/>
+	<SubTexture name="explosion16.png" x="14" y="118" width="4" height="8"/>
+	<SubTexture name="explosion17.png" x="88" y="112" width="11" height="12"/>
+	<SubTexture name="explosion18.png" x="94" y="62" width="8" height="9"/>
+	<SubTexture name="explosion19.png" x="0" y="119" width="5" height="5"/>
+</TextureAtlas>

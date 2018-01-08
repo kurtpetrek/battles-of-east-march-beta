@@ -1,0 +1,13 @@
+<TextureAtlas imagePath="mageIn.png">
+	<SubTexture name="mageIn01" x="66" y="469" width="35" height="26"/>
+	<SubTexture name="shadowMageSpelling02.png" x="0" y="469" width="64" height="39"/>
+	<SubTexture name="shadowMageSpelling03.png" x="0" y="298" width="73" height="64"/>
+	<SubTexture name="shadowMageSpelling04.png" x="0" y="206" width="73" height="90"/>
+	<SubTexture name="shadowMageSpelling05.png" x="0" y="0" width="74" height="101"/>
+	<SubTexture name="shadowMageSpelling06.png" x="0" y="103" width="73" height="101"/>
+	<SubTexture name="shadowMageSpelling07.png" x="0" y="364" width="71" height="103"/>
+	<SubTexture name="shadowMageSpelling08.png" x="73" y="364" width="65" height="100"/>
+	<SubTexture name="shadowMageSpelling09.png" x="75" y="103" width="55" height="97"/>
+	<SubTexture name="shadowMageSpelling10.png" x="75" y="202" width="35" height="70"/>
+	<SubTexture name="shadowMageSpelling12.png" x="75" y="274" width="24" height="61"/>
+</TextureAtlas>

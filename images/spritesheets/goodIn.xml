@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="goodIn.png">
+	<SubTexture name="goodIn01.png" x="0" y="150" width="128" height="31"/>
+	<SubTexture name="goodIn02.png" x="0" y="105" width="186" height="43"/>
+	<SubTexture name="goodIn03.png" x="0" y="55" width="206" height="48"/>
+	<SubTexture name="goodIn04.png" x="0" y="0" width="218" height="53"/>
+</TextureAtlas>

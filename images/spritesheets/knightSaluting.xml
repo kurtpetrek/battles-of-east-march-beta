@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="knightSaluting.png">
+	<SubTexture name="knightSaluting01.png" x="162" y="0" width="40" height="66"/>
+	<SubTexture name="knightSaluting02.png" x="161" y="139" width="43" height="67"/>
+	<SubTexture name="knightSaluting03.png" x="112" y="140" width="47" height="68"/>
+	<SubTexture name="knightSaluting04.png" x="110" y="0" width="50" height="68"/>
+	<SubTexture name="knightSaluting05.png" x="57" y="143" width="53" height="69"/>
+	<SubTexture name="knightSaluting06.png" x="0" y="72" width="55" height="70"/>
+	<SubTexture name="knightSaluting07.png" x="0" y="0" width="56" height="70"/>
+	<SubTexture name="knightSaluting08.png" x="0" y="144" width="55" height="70"/>
+	<SubTexture name="knightSaluting09.png" x="57" y="72" width="53" height="69"/>
+	<SubTexture name="knightSaluting10.png" x="58" y="0" width="50" height="68"/>
+	<SubTexture name="knightSaluting11.png" x="112" y="70" width="47" height="68"/>
+	<SubTexture name="knightSaluting12.png" x="161" y="70" width="43" height="67"/>
+</TextureAtlas>

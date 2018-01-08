@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="fireball.png">
+	<SubTexture name="fireball01.png" x="0" y="11" width="14" height="9"/>
+	<SubTexture name="fireball02.png" x="16" y="0" width="10" height="13"/>
+	<SubTexture name="fireball03.png" x="0" y="0" width="14" height="9"/>
+	<SubTexture name="fireball04.png" x="16" y="15" width="10" height="14"/>
+</TextureAtlas>

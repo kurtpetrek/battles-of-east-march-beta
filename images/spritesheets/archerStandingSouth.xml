@@ -1,0 +1,11 @@
+<TextureAtlas imagePath="archerStandingSouth.png">
+	<SubTexture name="archerStandingSouth01.png" x="0" y="76" width="43" height="74"/>
+	<SubTexture name="archerStandingSouth02.png" x="44" y="152" width="42" height="74"/>
+	<SubTexture name="archerStandingSouth03.png" x="88" y="152" width="42" height="74"/>
+	<SubTexture name="archerStandingSouth04.png" x="45" y="76" width="42" height="74"/>
+	<SubTexture name="archerStandingSouth05.png" x="89" y="76" width="41" height="74"/>
+	<SubTexture name="archerStandingSouth06.png" x="89" y="0" width="42" height="74"/>
+	<SubTexture name="archerStandingSouth07.png" x="45" y="0" width="42" height="74"/>
+	<SubTexture name="archerStandingSouth08.png" x="0" y="152" width="42" height="74"/>
+	<SubTexture name="archerStandingSouth09.png" x="0" y="0" width="43" height="74"/>
+</TextureAtlas>
